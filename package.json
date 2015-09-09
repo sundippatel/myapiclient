@@ -3,6 +3,6 @@
   "version":"0.1.2",
   "dependencies": {
     "simple-api-client": "~0.5.0",
-    "simple-api":"sundippatel/simple-api-client/master"
+    "simple-api":"sundippatel/simple-api-client#master"
   }
 }
